@@ -1,0 +1,16 @@
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Data-O – Data-O</title>
+    <link>http://data-o.github.io/en/</link>
+    <description>Recent content on Data-O</description>
+    <generator>Hugo -- gohugo.io</generator>
+    
+	  <atom:link href="http://data-o.github.io/en/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+      
+      
+    
+    
+  </channel>
+</rss>
