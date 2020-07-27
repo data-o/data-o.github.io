@@ -3,30 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://data-o.github.io/docs/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://data-o.github.io/en/docs/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="http://data-o.github.io/docs/"
-                />
+    <loc>/docs/</loc>
   </url>
   
   <url>
-    <loc>http://data-o.github.io/</loc>
+    <loc>/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://data-o.github.io/en/"
+                href="/en/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ch"
-                href="http://data-o.github.io/"
+                href="/"
                 />
   </url>
   
