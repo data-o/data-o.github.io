@@ -3,6 +3,20 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/en/docs/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/docs/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/en/docs/"
+                />
+  </url>
+  
+  <url>
     <loc>/en/</loc>
     <xhtml:link
                 rel="alternate"
