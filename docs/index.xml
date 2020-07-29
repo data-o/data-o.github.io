@@ -4,6 +4,7 @@
     <link>/docs/</link>
     <description>Recent content in Data-O 介绍 on Data-O</description>
     <generator>Hugo -- gohugo.io</generator>
+    <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
 	  <atom:link href="/docs/index.xml" rel="self" type="application/rss+xml" />
     
@@ -12,6 +13,50 @@
         
       
     
+    
+    <item>
+      <title>Docs: ABCStorage 部署</title>
+      <link>/docs/storage-install/storage/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage-install/storage/</guid>
+      <description>
+        
+        
+        &lt;h2 id=&#34;部署环境准备&#34;&gt;部署环境准备&lt;/h2&gt;
+&lt;p&gt;3台起配，每台服务器至少1块硬盘用作数据存储&lt;/p&gt;
+&lt;p&gt;操作系统：建议centos7.4&lt;/p&gt;
+&lt;p&gt;软件包：minimal或者更高&lt;/p&gt;
+
+
+&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;提示&lt;/h4&gt;
+文档添加中。。。
+&lt;/div&gt;
+
+
+      </description>
+    </item>
+    
+    <item>
+      <title>Docs: Batfs 部署</title>
+      <link>/docs/storage-install/batfs/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>/docs/storage-install/batfs/</guid>
+      <description>
+        
+        
+        
+
+&lt;div class=&#34;alert alert-info&#34; role=&#34;alert&#34;&gt;
+&lt;h4 class=&#34;alert-heading&#34;&gt;提示&lt;/h4&gt;
+文档添加中。。。
+&lt;/div&gt;
+
+
+      </description>
+    </item>
     
   </channel>
 </rss>

@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Data-O – Data-O 介绍</title>
-    <link>/en/docs/</link>
-    <description>Recent content in Data-O 介绍 on Data-O</description>
+    <title>Data-O – 存储系统安装</title>
+    <link>/docs/storage-install/</link>
+    <description>Recent content in 存储系统安装 on Data-O</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 29 Jul 2020 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="/en/docs/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="/docs/storage-install/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: ABCStorage 部署</title>
-      <link>/en/docs/storage-install/storage/</link>
+      <link>/docs/storage-install/storage/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/docs/storage-install/storage/</guid>
+      <guid>/docs/storage-install/storage/</guid>
       <description>
         
         
@@ -40,10 +40,10 @@
     
     <item>
       <title>Docs: Batfs 部署</title>
-      <link>/en/docs/storage-install/batfs/</link>
+      <link>/docs/storage-install/batfs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>/en/docs/storage-install/batfs/</guid>
+      <guid>/docs/storage-install/batfs/</guid>
       <description>
         
         
